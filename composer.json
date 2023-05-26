@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "winter/storm": "~1.1.7",
+        "winter/storm": "^1.1.7",
         "composer/installers": "~1.0",
         "barryvdh/laravel-dompdf": "^2.0"
     },
