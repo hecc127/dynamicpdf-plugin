@@ -39,7 +39,7 @@ There are couple ways to install this plugin.
 
 1. Use `php artisan plugin:install Renatio.DynamicPDF` command.
 2. Use `composer require renatio/dynamicpdf-plugin` in project root. When you use this option you must
-   run `php artisan october:migrate` after installation.
+   run `php artisan winter:up` after installation.
 
 ## PDF content
 
